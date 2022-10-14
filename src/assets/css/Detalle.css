@@ -1,0 +1,12 @@
+.contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5%;
+}
+/* no puedo descubrir el motivo por el cual no me deja ocupar con "flex-direction", creo que debe ser por algun css que me este interrumpiendo el mio */
+.detalle{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}

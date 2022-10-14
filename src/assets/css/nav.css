@@ -1,0 +1,7 @@
+.navlink{
+    display: flex;
+    justify-content: space-between;
+}
+.active{
+    padding-right: 20%;
+}
